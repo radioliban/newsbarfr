@@ -6,7 +6,7 @@
 .bn-news{position:absolute;left:0;top:0;bottom:0;height:100%;right:0;overflow:hidden}
 .bn-news ul{display:block;height:100%;list-style:none;padding:0;margin:0;left:0;bottom:0;width:100%;position:absolute}
 .bn-news ul li{white-space:nowrap;overflow:hidden!important;text-overflow:ellipsis;text-decoration:none;-webkit-transition:color .2s linear;-moz-transition:color .2s linear;-o-transition:color .2s linear;transition:color .2s linear;position:absolute;width:100%;display:none;color:#333}
-.bn-news ul li a{white-space:nowrap;text-overflow:ellipsis;text-decoration:none;padding:0 10px;color:#000;position:relative;display:block;overflow:hidden}
+.bn-news ul li a{white-space:nowrap;text-overflow:ellipsis;text-decoration:none;padding:0 10px;color:#000000;position:relative;display:block;overflow:hidden}
 .bn-news ul li a:hover{color:#eb2026}
 .bn-loader-text{padding:0 10px}
 .bn-seperator{display:inline-block;float:left;margin-right:15px;width:30px;height:40px;background-position:center;background-size:contain;background-repeat:no-repeat;position:relative}
